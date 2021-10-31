@@ -25,4 +25,4 @@ cv.imshow('lab', lab)
 
 
 
-#cv.waitKey(0)
+cv.waitKey(0)
